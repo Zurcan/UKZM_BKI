@@ -1,0 +1,15 @@
+Creating   'bki.eep'
+Creating   'bki.obj'
+Creating   'bki.lst'
+
+Assembling 'bki.asm'
+Including  'bki.vec'
+Including  'bki.inc'
+
+Program memory usage:
+Code             : 2631 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            : 2632 words
+
+Assembly complete with no errors.
